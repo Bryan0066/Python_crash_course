@@ -1,5 +1,11 @@
-print("hello world")
+print("Hello world")
 
-print('yolo')
 
-x = 1 
+x = 69+420
+
+print(x)
+
+
+message =  "hello world"
+
+print(message)
