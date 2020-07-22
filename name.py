@@ -28,3 +28,15 @@ favorite_language = favorite_language.lstrip()
 print(favorite_language)
 print()
 
+name = "eric"
+name = name.title()
+message = f"Hello {name}, this is a message!"
+print(message)
+print(name.upper())
+print(name.lower())
+
+famous_persons_name = "Imfamous"
+
+
+print()
+
