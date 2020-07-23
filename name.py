@@ -1,5 +1,7 @@
 # This file covers the basic projects in the beginning of the book, just reviewing
 
+# string basics
+
 name = "ada lovelace"
 print(name.title())
 print(name.upper())
