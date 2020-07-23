@@ -35,8 +35,8 @@ print(message)
 print(name.upper())
 print(name.lower())
 
-famous_persons_name = "Imfamous"
+famous_persons_name = "I'm famous"
+print(f"\nthis is my quote,\t\n it's very profound,\t\n you're welcome\n\n\t{famous_persons_name} ")
 
 
-print()
 
