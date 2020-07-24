@@ -41,3 +41,6 @@ for p in trans:
     i = i + 1
     print(f"blah blah,{p},blah blah.")
 
+
+    
+

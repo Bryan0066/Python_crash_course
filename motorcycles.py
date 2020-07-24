@@ -15,3 +15,6 @@ motorcycles_1 = []
 
 motorcycles_1.append("yamaha")
 motorcycles_1.append("honda")
+
+motorcycles(0,'look at me, im the 0 now')
+
