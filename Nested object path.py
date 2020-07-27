@@ -1,4 +1,6 @@
 
+# Not my code, https://www.w3resource.com/projects/python/python-projects-7.php
+
 def get(obj, path: str, default=None):
     """
     Forgiving get dot prop.
